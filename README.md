@@ -1,2 +1,2 @@
-# RockPaperScissor
-Simple Game Rock Paper Scissor in python
+# RockPaperScissor - brunols7
+Simple Game - Rock, Paper or Scissor in python.
